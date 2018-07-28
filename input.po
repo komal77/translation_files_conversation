@@ -1,0 +1,14 @@
+msgid "Hello Home"
+msgstr ""
+
+msgid "You think i am arrogant?"
+msgstr ""
+
+msgid "What the hell"
+msgstr ""
+
+msgid "Hey,baby what;s up"
+msgstr ""
+
+msgid "I am not your type"
+msgstr ""
