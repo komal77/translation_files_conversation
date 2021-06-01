@@ -8,5 +8,5 @@ idna==2.6
 py-translate==1.0.3
 requests==2.18.4
 translate==2.0.0
-urllib3==1.22
+urllib3==1.26.5
 wsgiref==0.1.2
